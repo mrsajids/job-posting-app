@@ -1,4 +1,5 @@
-# job-posting-app
+# Job Portal App with MERN Stack
+
 
 job-posting-app
 
