@@ -7,7 +7,7 @@ Clone the repo:
 git clone https://github.com/exclusiveabhi/react-job-portal.git  
 Install NPM packages:  
 
-```
+```sh
 cd react-job-portal
 ```  
 cd backend  
