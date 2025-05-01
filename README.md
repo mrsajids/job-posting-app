@@ -9,13 +9,22 @@ Install NPM packages:
 
 ```sh
 cd react-job-portal
-```  
+```
+ ```sh
 cd backend  
+```
+ ```sh
 npm install  
+```  
+ ```sh
 cd..  
-cd frontend  
+```  
+ ```sh
+cd frontend
+```
+ ```sh
 npm install  
-
+```  
 
 ## To connect to your database use these details;
 Host: sql12.freesqldatabase.com
