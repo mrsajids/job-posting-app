@@ -22,7 +22,7 @@ cd..
  ```sh
 cd frontend
 ```
- ```sh
+ ```
 npm install  
 ```  
 
