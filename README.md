@@ -26,6 +26,7 @@ cd frontend
 npm install  
 ```  
 
+
 ## To connect to your database use these details;
 Host: sql12.freesqldatabase.com
 Database name: sql12776232
