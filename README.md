@@ -4,7 +4,9 @@ A comprehensive job portal application built using Mysql, Express.js, React.js, 
 # installation  
 Clone the repo:  
 
-git clone https://github.com/exclusiveabhi/react-job-portal.git  
+```
+git clone https://github.com/exclusiveabhi/react-job-portal.git
+```
 Install NPM packages:  
 
 ```
